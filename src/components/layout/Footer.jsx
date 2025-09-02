@@ -101,7 +101,7 @@ const Footer = () => {
               <Box sx={{ display: 'flex', alignItems: 'flex-start', mb: 3 }}>
                 <LocationOn sx={{ mr: 1, color: 'secondary.main' }} />
                 <Typography variant="body2">
-                  Calle Comercio 123, 28001 Madrid, España
+                  Los Olivos, Lima Perú
                 </Typography>
               </Box>
               <Box>
@@ -128,7 +128,7 @@ const Footer = () => {
           <Typography variant="body2" align="center">
             {'© '}
             {new Date().getFullYear()}
-            {' Paginita Shop. Todos los derechos reservados. Diseñado con ♥ en España.'}
+            {' Paginita Shop. Todos los derechos reservados. Diseñado por Gadiel.'}
           </Typography>
         </Box>
       </Container>
